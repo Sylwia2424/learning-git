@@ -1,0 +1,19 @@
+.container {
+  margin: 0 40px;
+  max-width: 1140px;
+  padding: 0 40px;
+  text-align: center;
+}
+a {
+  font-style: italic;
+}
+/*container*/
+.text {
+  margin:auto;
+  padding: 0 60px;
+
+}
+.space {
+  padding-top: 20px;
+  line-height: 10px;
+}
