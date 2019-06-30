@@ -17,3 +17,6 @@ a {
   padding-top: 20px;
   line-height: 10px;
 }
+ p {
+   color: blue;
+ }
