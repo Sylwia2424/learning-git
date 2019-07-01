@@ -1,4 +1,4 @@
 
-"watch:autoprefixer": "onchange -d 100 css/style.css -- autoprefixer-cli -o css/style.prefixed.css css/style.css"
+"watch:autoprefixer": "postcss -d 100 css/style.css -- autoprefixer-cli -o css/style.prefixed.css css/style.css"
 
-"watch:browsersync": "browser-sync start --server --files css/*.css *.html",
+"watch:nu-html-checker": "nu-html-checker start --server --files css/*.css *.html",
